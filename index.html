@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clicker-peli</title>
+    <link rel="stylesheet" href="tyylit.css">
+</head>
+<body>
+    <h1>Uskallatko tökätä leijonaa?</h1>
+
+    <div id="soundButtons">
+        <button onclick="toggleBackgroundSound()">Taustaäänet</button> 
+
+        <button id="resetButton">Nollaa</button>
+    </div>
+
+    <div>
+        <h2>Pisteet: <span id="score">0</span></h2>
+    </div>
+
+    <div id="leijona-container">
+        <img src="IMG/lion.png" id="leijona">
+    </div>
+    
+
+    <script src="main.js"></script>
+</body>
+</html>
