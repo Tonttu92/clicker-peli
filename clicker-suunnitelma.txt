@@ -1,0 +1,11 @@
+Clicker peli
+
+Tehdään clicker peli, jonka teemana on leijona
+
+Tautaksi savanni
+
+leijona karjahtaa joka klikkauksella, joka 50:nes klikkaus aiheuttaa toisen laisen karjaisun
+
+Taustamusiikki, mahdollista olla päällä tai pois päältä.
+
+pisteet voi nollata.
